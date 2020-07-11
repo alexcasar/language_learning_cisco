@@ -20,13 +20,17 @@ language_learing_repo
 
 ./test1/data/all the data files in csv format
 
+
 To run:
 Every file has comments on how to run the file, but it is mainly 
 cd language_learing_repo
 
 then
+
 python ./ciscoPL/pythonfile proyectname experiment
+
 example
+
 python ./ciscoPL/1_Clusterer.py test1 data11
 
 NOTES:
