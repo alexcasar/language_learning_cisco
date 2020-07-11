@@ -9,10 +9,15 @@ Setup:
 Add the ciscoPL folder inside your main language_learning folder, and then also add another folder for your project, which contains the datafiles
 
 In this repo I provide the following structure:
+
 language_learing_repo
+
 ./ciscoML
+
 ./test1 (name of my working directory)
+
 ./test1/data
+
 ./test1/data/all the data files in csv format
 
 To run:
